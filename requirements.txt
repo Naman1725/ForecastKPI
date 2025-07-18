@@ -1,0 +1,7 @@
+flask
+pandas
+plotly
+xlrd
+openpyxl
+gunicorn
+xgboost
